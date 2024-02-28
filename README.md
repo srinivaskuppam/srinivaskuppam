@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivaskuppam&label=Profile%20views&color=0e75b6&style=flat" alt="srinivaskuppam" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://srinivaskuppam.github.io/Portfolio/](https://srinivaskuppam.github.io/Portfolio/)
-
 - 📫 How to reach me **kuppamsrinivas1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
